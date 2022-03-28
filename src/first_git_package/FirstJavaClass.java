@@ -6,6 +6,6 @@ public class FirstJavaClass {
 
         System.out.println("Learning github");
         System.out.println("Adding a new code");
-        System.out.println(" This is an other code"); git
+        System.out.println("This is an other code");
     }
 }
